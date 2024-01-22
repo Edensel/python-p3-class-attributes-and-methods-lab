@@ -1,3 +1,5 @@
+class Song:
+    pass
 # The Song class can produce individual songs. Each song has a name, an artist and a genre. 
 class Song:
     # We need our Song class to be able to keep track of the number of songs that it creates. Song.count
